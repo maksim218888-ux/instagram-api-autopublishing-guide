@@ -1,0 +1,17 @@
+{
+  "account_id": "17840000000000000",
+  "expected_username": "your_professional_account",
+  "api_host": "graph.facebook.com",
+  "api_version": "v27.0",
+  "media_kind": "REELS",
+  "media_path": "./media/approved-reel.mp4",
+  "caption_path": "./caption.txt",
+  "cover_path": "./media/approved-cover.jpg",
+  "asset_url": "https://temporary.example/reel.mp4?signature=REPLACE_AT_RUNTIME",
+  "cover_url": "https://temporary.example/cover.jpg?signature=REPLACE_AT_RUNTIME",
+  "mode": "NORMAL",
+  "share_to_feed": true,
+  "is_ai_generated": false,
+  "poll_interval_seconds": 60,
+  "poll_timeout_seconds": 300
+}
